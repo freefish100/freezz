@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>实用技巧 on 自游鱼</title>
+    <link>http://localhost:1313/tags/%E5%AE%9E%E7%94%A8%E6%8A%80%E5%B7%A7/</link>
+    <description>Recent content in 实用技巧 on 自游鱼</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E5%AE%9E%E7%94%A8%E6%8A%80%E5%B7%A7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Excel电子表格神奇的CTRL&#43;E快速填充技巧</title>
+      <link>http://localhost:1313/posts/20240701/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20240701/</guid>
+      <description>Excel是我们日常办公工作中最常用的工具之一了，Excel有一个非常实用的功能，叫“快速填充”，其快捷键是——Ctrl+E，“快速填充”是一种智能数据处理功能，它可以根据我们在前几行或前几列输入的数据模式，自动填充后续的单元格内容，这项功能利用模式识别技术，能够迅速理解并复制你所展示的样式，从而减少手动输入的工作量，尤其在处理重复性任务时，能够大大提高我们的工作效率，让我们在处理数据时节省大量时间和精力。&#xA;“快速填充”有如下一些常见的使用场景：&#xA;1、数据拆分：将一个单元格中的数据拆分到多个单元格中。&#xA;2、数据合并：将多个单元格中的数据合并到一个单元格中。&#xA;3、格式转换：将数据从一种格式转换为另一种格式。&#xA;4、提取特定信息：从文本中提取特定信息，如姓名、日期等。&#xA;5、自动补全：根据已有的数据模式，自动补全剩余的数据。&#xA;使用“快速填充”功能，在Excel中输入一些示例数据，展示你希望Excel理解的模式，选择需要填充的单元格范围，按下Ctrl+E，Excel会根据你的示例数据自动填充剩余的单元格。“快速填充”是最好使用它的快捷键：Ctrl+E，既方便又快速，下面我们举一些例子让大家体验一下它的神奇之处。&#xA;例子1：拆分姓名&#xA;假如Excel表格A列的内容是姓名，现在需要拆分姓名，把姓氏分拆到B列，名字分拆到C列。我们可以这样做：在B1单元格中输入A1对应的姓氏，然后选中B1单元格，再按下Ctrl+E即可往下快速填充其余行的姓氏；同样，在C1单元格中输入A1对应的名字，然后选中C1单元格，再按下Ctrl+E即可往下快速填充其余行的名字。&#xA;例子2：合并地址&#xA;比如A列是省份，B列是城市，C列是街道，现在希望将它们合并成一个地址在D列中。如图，我们需要在D1单元格中先输入合并的地址格式，然后选中D1单元格，按下Ctrl+E，Excel会自动填充其余行的合并地址&#xA;例子3：格式转换。比如小数到百分比的格式转换，A列是小数，转换成B列的百分比。在B1中输入相应的格式，然后选中B1单元格，按下Ctrl+E，即可往下填充&#xA;例子4：提取电子邮件用户名&#xA;你有一列包含完整电子邮件地址的单元格，现在需要提取出用户名部分。&#xA;A列有电子邮件地址如“123abc@example.com”，在B1中输入要提取的用户名“123abc”，按下Ctrl+E，Excel会自动填充其余行的用户名&#xA;例子5：小写字母输出成大写字母&#xA;例子6：抽取证件号码中的一段数值，比如年份&#xA;通过以上的例子，我们可以看出，Ctrl+E（快速填充）是Excel中一个非常强大且实用的功能，能够大大提高我们的工作效率，可以看到它在不同场景下的灵活运用。掌握这个快捷键，你会发现处理数据变得更加轻松和高效。下次在Excel中遇到重复性任务时，不妨试试Ctrl+E，让它为你节省更多时间！</description>
+    </item>
+  </channel>
+</rss>
